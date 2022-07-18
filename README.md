@@ -2,7 +2,7 @@
 
 This is the official support/wiki repo for the warriors smp modpack over on curseforge. If you'd like to install the modpack, please download the curseforge/overwolf client from [curseforge.com](https://download.curseforge.com/) and ~~search for "Warriors SMP" using the search bar at the top!~~ then press the modpack link! [Warriors SMP Modpack Download](https://www.curseforge.com/minecraft/modpacks/warriors-smp/download/3881516?client=y) (The link should open up a new window with a dialogue asking if you want to open the curseforge app... Press "Open Curseforge").
 
-This modpack contains 100 mods; however, over half of the mods are library/light mods which dont really strain your system. The modpack also comes preinstalled with performance mods, complementary shaders, and Unity 16x (resource pack with the best mod support).
+This modpack contains 100 mods; however, over half of the mods are library/light mods which don't really add content to the game. The modpack also comes preinstalled with performance mods, complementary shaders, and Unity 16x (resource pack with the best mod support).
 
 Unfortunately the main server isn't available to the public at this time; however, I'm working on a server pack if you'd like to make your own!
 
