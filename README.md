@@ -12,7 +12,8 @@ Unfortunately the main server isn't available to the public at this time; howeve
 
 |Mod|Function|Link|
 |--|--|--|
-|Akashic Tome|Content[^1]|[Link](https://www.curseforge.com/minecraft/mc-mods/akashic-tome)|
+|Absent By Design|Content[^1]|[Link](https://www.curseforge.com/minecraft/mc-mods/absent-by-design)|
+|Akashic Tome|Content|[Link](https://www.curseforge.com/minecraft/mc-mods/akashic-tome)|
 |Alex's Mobs|Content|[Link](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs)|
 |Apotheosis|Content|[Link](https://www.curseforge.com/minecraft/mc-mods/apotheosis)|
 |Apple Skin|Utility|[Link](https://www.curseforge.com/minecraft/mc-mods/architects-palette)|
@@ -33,6 +34,7 @@ Unfortunately the main server isn't available to the public at this time; howeve
 |Chunk Pregenerator|Utility|[Link](https://www.curseforge.com/minecraft/mc-mods/chunkpregenerator)|
 |Citadel|Library|[Link](https://www.curseforge.com/minecraft/mc-mods/citadel)|
 |Compact Ores|Content|[Link](https://www.curseforge.com/minecraft/mc-mods/compact-ores)|
+|ConnectedTexturesMod|Utility|[Link](https://www.curseforge.com/minecraft/mc-mods/ctm)|
 |Controlling|Utility|[Link](https://www.curseforge.com/minecraft/mc-mods/controlling)|
 |Cooking for Blockheads|Content|[Link](https://www.curseforge.com/minecraft/mc-mods/cooking-for-blockheads)|
 |Crafting Tweaks|Utility|[Link](https://www.curseforge.com/minecraft/mc-mods/crafting-tweaks)|
@@ -43,6 +45,7 @@ Unfortunately the main server isn't available to the public at this time; howeve
 |Curious Elytra|Content|[Link](https://www.curseforge.com/minecraft/mc-mods/curious-elytra)|
 |Cyclic|Content|[Link](https://www.curseforge.com/minecraft/mc-mods/cyclic)|
 |Cyclops Core|Library|[Link](https://www.curseforge.com/minecraft/mc-mods/cyclops-core)|
+|Ding|Utility|[Link](https://www.curseforge.com/minecraft/mc-mods/ding)|
 |Dungeon Crawl|Content|[Link](https://www.curseforge.com/minecraft/mc-mods/dungeon-crawl)|
 |Earth Mobs|Content|[Link](https://www.curseforge.com/minecraft/mc-mods/earth-mobs)|
 |Enchantment Descriptions|Utility|[Link](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions)|
@@ -56,12 +59,11 @@ Unfortunately the main server isn't available to the public at this time; howeve
 |FerriteCore|Utility|[Link](https://www.curseforge.com/minecraft/mc-mods/ferritecore)|
 |FlyWheel|Library|[Link](https://www.curseforge.com/minecraft/mc-mods/flywheel)|
 |FTB Chunks|Utility|[Link](https://www.curseforge.com/minecraft/mc-mods/ftb-chunks-forge)|
-|FTB Essentials|Utility|[Link](https://www.curseforge.com/minecraft/mc-mods/ftb-essentials-forge)|
 |FTB Library|Library|[Link](https://www.curseforge.com/minecraft/mc-mods/ftb-library-forge)|
-|FTB Ranks|Utility|[Link](https://www.curseforge.com/minecraft/mc-mods/ftb-ranks-forge)|
 |FTB Teams|Utility|[Link](https://www.curseforge.com/minecraft/mc-mods/ftb-teams-forge)|
 |FTB Ultimine|Utility|[Link](https://www.curseforge.com/minecraft/mc-mods/ftb-ultimine-forge)|
 |GeckoLib|Library|[Link](https://www.curseforge.com/minecraft/mc-mods/geckolib)|
+|Glassential|Content|[Link](https://www.curseforge.com/minecraft/mc-mods/glassential)|
 |Gobber|Content|[Link](https://www.curseforge.com/minecraft/mc-mods/gobber)|
 |GraveStone Mod|Content|[Link](https://www.curseforge.com/minecraft/mc-mods/gravestone-mod)|
 |Guard Villagers|Content|[Link](https://www.curseforge.com/minecraft/mc-mods/guard-villagers)|
@@ -101,7 +103,6 @@ Unfortunately the main server isn't available to the public at this time; howeve
 |Skin Layers 3D|Content|[Link](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d)|
 |Sophisticated Backpacks|Content|[Link](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks)|
 |Sophisitcated Core|Library|[Link](https://www.curseforge.com/minecraft/mc-mods/sophisticated-core)|
-|Spark|Utility|[Link](https://www.curseforge.com/minecraft/mc-mods/spark)|
 |Spice of Life: Carrot Edition|Content|[Link](https://www.curseforge.com/minecraft/mc-mods/spice-of-life-carrot-edition)|
 |Structure Gel API|Library|[Link](https://www.curseforge.com/minecraft/mc-mods/structure-gel-api)|
 |Supplementaries|Content|[Link](https://www.curseforge.com/minecraft/mc-mods/supplementaries)|
@@ -110,7 +111,6 @@ Unfortunately the main server isn't available to the public at this time; howeve
 |Tinkers Construct|Content|[Link](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct)|
 |Waystones|Content|[Link](https://www.curseforge.com/minecraft/mc-mods/waystones)|
 |When Dungeons Arise|Content|[Link](https://www.curseforge.com/minecraft/mc-mods/when-dungeons-arise)|
-|WorldEdit|Utility|[Link](https://www.curseforge.com/minecraft/mc-mods/worldedit)|
 |YUNG's API|Library|[Link](https://www.curseforge.com/minecraft/mc-mods/yungs-api)|
 |YUNG's Better Dungeons|Content|[Link](https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons)|
 |YUNG's Better Mineshafts|Content|[Link](https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-forge)|
