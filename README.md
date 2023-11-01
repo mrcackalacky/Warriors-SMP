@@ -4,6 +4,8 @@ This is the official support/wiki repo for the warriors smp modpack over on curs
 
 This modpack contains 100 mods; however, over half of the mods are library/light mods which don't really add content to the game. The modpack also comes preinstalled with performance mods, complementary shaders, and Unity 16x (resource pack with the best mod support).
 
+**NOTE: I DO NOT OWN THE MODS, RESOURCE PACKS, OR SHADER PACKS FOUND IN THIS MODPACK.**
+
 **OPTIFINE WILL CRASH THE GAME**
 
 ## Modlist
