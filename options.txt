@@ -1,0 +1,4 @@
+version:2975
+resourcePacks:["vanilla","mod_resources","CompactOres dynamic resources","Supplementaries Generated Pack","quark:emote_resources","resources/simplehats_hatdl.zip","file/True Unity 1.1.zip"]
+incompatibleResourcePacks:["CompactOres dynamic resources","quark:emote_resources"]
+
